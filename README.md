@@ -1,4 +1,3 @@
-# jonathangh248-portfolio
 # 💼 Portafolio Profesional – Jonathan García
 
 Este repositorio presenta una selección de mis proyectos profesionales en análisis de datos y ciencia de datos. Cada proyecto incluye un enfoque práctico, análisis estadístico y visualizaciones, desarrollados con Python y bibliotecas como pandas, matplotlib y scikit-learn.
