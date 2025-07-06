@@ -6,7 +6,7 @@ Este repositorio presenta una selección de mis proyectos profesionales en anál
 | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|
 | 🎵 Análisis de hábitos musicales | Comparativa del comportamiento musical entre dos ciudades usando datos ficticios de Spotify. Incluye limpieza de datos, análisis exploratorio, visualización y prueba de hipótesis. | Python, pandas, seaborn, matplotlib | [Ver repositorio](https://github.com/JonathanGH248/spotify-habits-city-comparison) |
-| 📱 Recomendador de planes móviles | Modelo de clasificación para predecir si un cliente debe recibir el plan Ultra o Smart, utilizando técnicas de aprendizaje supervisado. | Python, pandas, scikit-learn | [Ver repositorio](https://github.com/JonathanGH248/megaline-plan-recommendation) |
+| 📱 Recomendador de plan móviles | Modelo de clasificación para predecir si un cliente debe recibir el plan Ultra o Smart, utilizando técnicas de aprendizaje supervisado. | Python, pandas, scikit-learn | [Ver repositorio](https://github.com/JonathanGH248/megaline-plan-recommendation) |
 | 🛍️ Análisis de clientes de tienda | Exploración de datos de ventas y segmentación de clientes para una tienda ficticia. Incluye limpieza, visualización y análisis de comportamiento por grupo. | Python, pandas, seaborn | [Ver repositorio](https://github.com/JonathanGH248/analisis-clientes-store1) |
 
 ---
